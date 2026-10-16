@@ -1,0 +1,15 @@
+{
+  "name": "blockblast",
+  "version": "0.1.0",
+  "description": "Play Block Blast in a pane while Claude works.",
+  "author": { "name": "Stephen" },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "autoOpen": {
+      "type": "boolean",
+      "title": "Open while Claude works",
+      "description": "Open the Block Blast pane by itself when Claude starts a turn.",
+      "default": true
+    }
+  }
+}

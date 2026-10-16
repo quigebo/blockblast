@@ -1,0 +1,6 @@
+{
+  "name": "blockblast",
+  "description": "Play Block Blast in a pane while Claude works.",
+  "owner": { "name": "Stephen" },
+  "plugins": [{ "name": "blockblast", "source": "./" }]
+}
